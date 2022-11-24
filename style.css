@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.principal {
+  position: relative;
+  width: 1000px;
+  height: 40px;
+  margin: 20px 0;
+  background: #6171AC;
+  border-radius: 50% / 10%;
+  color: white;
+  text-align: center;
+  text-indent: .1em;
+  font-size: 30px;
+}
+
+.secundario1 {
+  position: relative;
+  width: 180px;
+  height: 30px;
+  margin: 20px 0;
+  background: #61bd0b;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  text-indent: .1em;
+  font-size: 20px;
+}
+
+.secundario2 {
+  position: relative;
+  width: 400px;
+  height: 30px;
+  margin: 20px 0;
+  background: #61bd0b;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  text-indent: .1em;
+  font-size: 20px;
+}
+
+#viz4{
+  width: 50%;
+  height: 400px;
+  }
